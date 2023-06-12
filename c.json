@@ -1,7 +1,7 @@
 {
-    "spider": "https://raw.githubusercontent.com/jwister/tvbox/main/cr/wqcatyuanban.jar",
-    "spider": "https://raw.githubusercontent.com/jwister/tvbox/main/cr/XBiubiuLA3.jar",
-    "spider": "https://raw.githubusercontent.com/jwister/tvbox/main/cr/XBiubiuLA4.jar",
+    "spider": "https://raw.githubusercontent.com/jwister/tvbox-1/main/cr/wqcatyuanban.jar",
+    "spider": "https://raw.githubusercontent.com/jwister/tvbox-1/main/cr/XBiubiuLA3.jar",
+    "spider": "https://raw.githubusercontent.com/jwister/tvbox-1/main/cr/XBiubiuLA4.jar",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext="]}]}],
     "sites": [
        
